@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Espresso",
+      "chef": "Luca Rossi",
+      "supplier": "Coffee Masters",
+      "taste": "Intense and Bold",
+      "category": "Coffee",
+      "details": "Strong and concentrated coffee made by forcing hot water through finely-ground coffee beans.",
+      "img": "https://i.ibb.co/890yp5N/5.png",
+      "price": 2.50
+    },
+    {
+      "name": "Cappuccino",
+      "chef": "Sophia Fernandez",
+      "supplier": "Artisan Coffee Roasters",
+      "taste": "Creamy and Smooth",
+      "category": "Coffee",
+      "details": "Espresso topped with equal parts of steamed milk and milk foam, often sprinkled with cocoa powder or cinnamon.",
+      "img": "https://i.ibb.co/Twr4n6t/3.png",
+      "price": 3.00
+    },
+    {
+      "name": "Café Latte",
+      "chef": "Diego Sanchez",
+      "supplier": "Local Dairy Farm",
+      "taste": "Mild and Creamy",
+      "category": "Coffee",
+      "details": "Espresso with steamed milk and a small amount of milk foam on top.",
+      "img": "https://i.ibb.co/K6KVLzc/4.png",
+      "price": 3.50
+    },
+    {
+      "name": "Americano",
+      "chef": "Emily Chen",
+      "supplier": "Fair Trade Coffee Co.",
+      "taste": "Smooth and Robust",
+      "category": "Coffee",
+      "details": "Espresso diluted with hot water, resulting in a milder coffee flavor.",
+      "img": "https://i.ibb.co/Z1Rxsz0/2.png",
+      "price": 2.75
+    },
+    {
+      "name": "Cold Brew Coffee",
+      "chef": "Mason Taylor",
+      "supplier": "Cold Brew Company",
+      "taste": "Smooth and Refreshing",
+      "category": "Coffee",
+      "details": "Coffee brewed with cold water over an extended period, resulting in a smoother, less acidic flavor profile.",
+      "img": "https://i.ibb.co/jhfcBfS/6.png",
+      "price": 4.00
+    },
+    {
+      "name": "Mocha",
+      "chef": "Isabella Martinez",
+      "supplier": "Organic Chocolate Co.",
+      "taste": "Rich and Indulgent",
+      "category": "Coffee",
+      "details": "Espresso mixed with steamed milk and chocolate syrup, topped with whipped cream.",
+      "img": "https://i.ibb.co/890yp5N/5.png",
+      "price": 3.75
+    }
+  ]
+  
